@@ -150,7 +150,7 @@ curl -X POST "http://127.0.0.1:8000/match-job" \
 
 👨‍💻 Author
 
-Built with Kanishka Patwal
+Built with Kanishka Patwal, Disha H davey, Khushi Chelani
 
 ⸻
 
